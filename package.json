@@ -11,14 +11,7 @@
     "url": "http://joseoncode.com"
   },
   "main": "lib/strategy.js",
-  "scripts": {
-    "test": "mocha"
-  },
   "dependencies": {
     "passport": "~0.1.17"
-  },
-  "devDependencies": {
-    "mocha": "~1.11.0",
-    "chai": "~1.7.0"
   }
 }
