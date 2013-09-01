@@ -1,0 +1,24 @@
+{
+  "name": "passport-heroku-addon",
+  "description": "Passport strategy for heroku addons.",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/jfromaniello/passport-heroku-addon.git"
+  },
+  "author": {
+    "name": "José F. Romaniello",
+    "email": "jfromaniello@gmail.com",
+    "url": "http://joseoncode.com"
+  },
+  "main": "lib/strategy.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "passport": "~0.1.17"
+  },
+  "devDependencies": {
+    "mocha": "~1.11.0",
+    "chai": "~1.7.0"
+  }
+}
