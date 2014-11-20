@@ -27,4 +27,4 @@ app.get('/heroku/resources/:id',
 
 ## License
 
-MIT 2013 Auth10 LLC
+MIT 2013-2014 Auth0 Inc
