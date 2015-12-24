@@ -11,6 +11,7 @@
     "url": "http://joseoncode.com"
   },
   "main": "lib/strategy.js",
+  "license": "MIT",
   "dependencies": {
     "passport": "~0.1.17"
   }
