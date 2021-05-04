@@ -13,6 +13,6 @@
   "main": "lib/strategy.js",
   "license": "MIT",
   "dependencies": {
-    "passport": "~0.1.17"
+    "passport-strategy": "1.x.x"
   }
 }
