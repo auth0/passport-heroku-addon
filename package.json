@@ -3,7 +3,7 @@
   "description": "Passport strategy for heroku addons.",
   "version": "1.0.0",
   "repository": {
-    "url": "git://github.com/auth0/passport-heroku-addon.git"
+    "url": "git+https://github.com/auth0/passport-heroku-addon.git"
   },
   "author": {
     "name": "José F. Romaniello",
